@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-replace-loader",
+  "version": "1.0.0",
+  "description": "dynamic-replace-loader",
+  "license": "Apache-2.0",
+  "author": "moxun <mxnstrive@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxun1639/dynamic-replace-loader.git"
+  },
+  "homepage": "https://github.com/moxun1639/dynamic-replace-loader",
+  "main": "index.js",
+  "keywords": [
+    "webpack", "dynamic replace", "loader"
+  ]
+}
